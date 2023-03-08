@@ -1,0 +1,37 @@
+ body {
+    
+    background-color: rgba(153, 59, 212, 0.201);
+    font-size: 25px;
+}
+
+ ul{
+    margin-left: 0;
+    padding-left: 0;
+ }
+
+ li{
+    list-style-type: none;
+ }
+
+  footer{
+    display: block;
+    background-color: black;
+    color: white;
+  }
+  
+  a {
+  color: rgb(207, 157, 205);
+  }
+  
+  img {
+    height: auto;
+    width: 100%;
+    max-width: 720px;
+    border-radius: 25px;
+    
+  }
+  
+  .container {
+    font-family: Tahoma;
+    text-align: center;
+  }
